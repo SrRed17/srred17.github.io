@@ -1,0 +1,1 @@
+alert("Esta pagina es digna de una buena nota")
